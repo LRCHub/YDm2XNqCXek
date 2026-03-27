@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "nem...",
+  "base_artist": "04 Limited Sazabys",
+  "createdAt": "2026-03-27T09:25:20.956029Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A jóság nem véd",
+      "artist": "Omen",
+      "has_synced": false,
+      "path": "select/01_A_jóság_nem_véd_Omen.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "A jóság nem véd",
+      "artist": "Omen [HUN]",
+      "has_synced": true,
+      "path": "select/02_A_jóság_nem_véd_Omen_[HUN].lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Adeus ... E Nem Voltei",
+      "artist": "Madredeus",
+      "has_synced": true,
+      "path": "select/03_Adeus_..._E_Nem_Voltei_Madredeus.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ni un Roce (Nem um Toque)",
+      "artist": "Ana Gabriel",
+      "has_synced": false,
+      "path": "select/04_Ni_un_Roce_(Nem_um_Toque)_Ana_Gabriel.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Szerelemhez nem kell szépség (feat. Tóth Vera)",
+      "artist": "Budapest Bar",
+      "has_synced": true,
+      "path": "select/05_Szerelemhez_nem_kell_szépség_(feat._Tóth_Vera)_Budapest_Bar.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Szerelemhez nem kell szépség",
+      "artist": "Budapest Bár",
+      "has_synced": true,
+      "path": "select/06_Szerelemhez_nem_kell_szépség_Budapest_Bár.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mama Nem",
+      "artist": "Tech N9ne",
+      "has_synced": true,
+      "path": "select/07_Mama_Nem_Tech_N9ne.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Twin Nem",
+      "artist": "King Von feat. Lil Durk",
+      "has_synced": true,
+      "path": "select/08_Twin_Nem_King_Von_feat._Lil_Durk.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Twin Nem",
+      "artist": "King Von, Lil Durk",
+      "has_synced": true,
+      "path": "select/09_Twin_Nem_King_Von,_Lil_Durk.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ON FAUX NEM",
+      "artist": "Lupe Fiasco",
+      "has_synced": true,
+      "path": "select/10_ON_FAUX_NEM_Lupe_Fiasco.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Twin Nem (feat. Lil Durk)",
+      "artist": "King Von",
+      "has_synced": true,
+      "path": "select/11_Twin_Nem_(feat._Lil_Durk)_King_Von.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "An so ’nem Tag",
+      "artist": "Pur",
+      "has_synced": false,
+      "path": "select/12_An_so_’nem_Tag_Pur.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Auf nem guten Weg",
+      "artist": "Montez",
+      "has_synced": true,
+      "path": "select/13_Auf_nem_guten_Weg_Montez.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Não Tem Hora Nem Lugar",
+      "artist": "Exaltasamba",
+      "has_synced": true,
+      "path": "select/14_Não_Tem_Hora_Nem_Lugar_Exaltasamba.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Nem Morta",
+      "artist": "Alcione",
+      "has_synced": false,
+      "path": "select/15_Nem_Morta_Alcione.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Nem um Pouquinho",
+      "artist": "DUDA BEAT feat. Trevo",
+      "has_synced": true,
+      "path": "select/16_Nem_um_Pouquinho_DUDA_BEAT_feat._Trevo.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Nem um Pouquinho",
+      "artist": "DUDA BEAT",
+      "has_synced": true,
+      "path": "select/17_Nem_um_Pouquinho_DUDA_BEAT.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Nem Luxo Nem Lixo",
+      "artist": "Rita Lee",
+      "has_synced": true,
+      "path": "select/18_Nem_Luxo_Nem_Lixo_Rita_Lee.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "nem...",
+      "artist": "04 Limited Sazabys",
+      "has_synced": false,
+      "path": "select/pl_01_nem..._04_Limited_Sazabys.txt"
+    }
+  ]
+}
